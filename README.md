@@ -1,9 +1,17 @@
-# Hi there, I'm Syed Tanweer Shahzad 👋
+# 🔥 Hi there, I'm Syed Tanweer Shahzad 👋
 ### Full-Stack Web Developer & Assistant Store Manager (ERP/SAP)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=200&section=header&text=Syed%20Tanweer%20Shahzad&fontSize=50&animation=fadeIn" alt="Header Banner" />
+  <samp>
+    <b>⚡ Creative UI/UX Enthusiast | 🖥️ Responsive Web Architecture | 📊 Operations & ERP Specialist</b>
+  </samp>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Welcome%20To%20My%20Profile-✨-purple?style=for-the-badge" alt="Welcome" />
+</p>
+
+---
 
 ## 🚀 About Me
 
