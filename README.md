@@ -45,13 +45,19 @@ An ambitious and detail-oriented **Full-Stack Web Developer** passionate about c
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedtanweershahzad-dotcom&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" alt="Tanweer's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedtanweershahzad-dotcom&layout=compact&theme=cyberpunk&hide_border=true" alt="Top Languages" height="180px" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=syedtanweershahzad-dotcom&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Tanweer's GitHub Stats" height="180px" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedtanweershahzad-dotcom&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedtanweershahzad-dotcom&theme=cyberpunk&hide_border=true" alt="GitHub Streak" />
+  <!-- Activity Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedtanweershahzad-dotcom&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
+
+---
 
 ---
 
