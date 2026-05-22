@@ -52,7 +52,7 @@ An ambitious and detail-oriented **Full-Stack Web Developer** passionate about c
 Let's collaborate on amazing web architectures or discuss workflow automation!
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/syedtanweershahzad">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
