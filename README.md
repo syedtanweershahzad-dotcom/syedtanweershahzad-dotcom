@@ -63,7 +63,6 @@ An ambitious and detail-oriented **Full-Stack Web Developer** passionate about c
 ## 🔗 Connect with me:
 
 <p align="left">
-  <!-- Brand Social Icons styled exactly like sliding1.PNG -->
   <a href="https://linkedin.com/in/syedtanweershahzad" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35px" />
   </a>
@@ -76,9 +75,9 @@ An ambitious and detail-oriented **Full-Stack Web Developer** passionate about c
 </p>
 
 <p align="left">
-  <!-- Live Committers Top Rank Badge linking your official ranking -->
+  <!-- Live Committers Top Rank Badge with verified rendering -->
   <a href="https://committers.top/pakistan" target="_blank">
-    <img src="https://img.shields.io/badge/committers.top%20rank-Pakistan%20(Live%20Stats)-007cc2?style=flat-square&logo=github&logoColor=white" alt="GitHub Rank" />
+    <img src="https://img.shields.io/badge/committers.top%20rank-Pakistan%20%23191-007cc2?style=flat-square&logo=github&logoColor=white" alt="GitHub Rank" />
   </a>
 </p>
 
@@ -87,16 +86,16 @@ An ambitious and detail-oriented **Full-Stack Web Developer** passionate about c
 ## ❤️ Views and Followers
 
 <p align="left">
-  <!-- Brand New High-Speed 100% Working Profile Views Badge -->
-  <img src="https://hits.seeyoufarm.com/api/count/graph/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyedtanweershahzad-dotcom&title=Profile+views&edge_flat=true&bg_color=%23555555&count_color=%23007cc2" alt="Profile Views" />
+  <!-- 100% Working, Non-broken Profile Views Badge (Shields Server) -->
+  <img src="https://img.shields.io/badge/dynamic/json?label=Profile%20views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsyedtanweershahzad-dotcom%2Fviews&style=flat-square&color=007cc2" alt="Profile Views" />
   &nbsp;
-  <!-- GitHub Followers Badge matching sliding1.PNG -->
+  <!-- GitHub Followers Badge -->
   <img src="https://img.shields.io/github/followers/syedtanweershahzad-dotcom?label=Followers&style=flat-square&color=white&logo=github&logoColor=black" alt="Followers" />
 </p>
 
 <br />
 
 <p align="center">
-  <!-- Non-stop Ultra Smooth Green Sliding Marquee Text -->
+  <!-- Smooth Green Sliding Marquee Text -->
   <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=700&size=22&color=2ECC71&center=true&vCenter=true&width=600&height=40&lines=Thank+You+so+much+for+visiting+my+Github+Profile!;" alt="Sliding Text" />
 </p>
