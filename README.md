@@ -116,10 +116,8 @@ Elegant recipe UI with responsive design and clean layout.
 ## ❤️ Views and Followers
 
 <p align="left">
-  <!-- 100% Working, Non-broken Profile Views Badge (Shields Server) -->
-  <img src="https://img.shields.io/badge/dynamic/json?label=Profile%20views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsyedtanweershahzad-dotcom%2Fviews&style=flat-square&color=007cc2" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=syedtanweershahzad-dotcom&color=007cc2&style=flat-square&label=Profile+Views" alt="Profile Views" />
   &nbsp;
-  <!-- GitHub Followers Badge -->
   <img src="https://img.shields.io/github/followers/syedtanweershahzad-dotcom?label=Followers&style=flat-square&color=white&logo=github&logoColor=black" alt="Followers" />
 </p>
 
