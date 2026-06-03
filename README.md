@@ -1,4 +1,4 @@
-# ⚡ ERROR_LOG: PROFILE_FOUND // SYED TANWEER SHAHZAD 👋
+# ⚡ SYED TANWEER SHAHZAD 👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-%2300ff66?style=flat-square" alt="Status" />
