@@ -3,13 +3,13 @@
 ### Full-Stack Web Developer & Assistant Store Manager (ERP/SAP)
 
 <p align="center">
-  <samp>
-    <b>⚡ Creative UI/UX Enthusiast | 🖥️ Responsive Web Architecture | 📊 Operations & ERP Specialist</b>
-  </samp>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,2,24,20&height=180&section=header&text=Welcome%20To%20My%20Space&fontSize=45&animation=twinkling&fontColor=ffffff" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Welcome%20To%20My%20Profile-✨-purple?style=for-the-badge" alt="Welcome" />
+  <samp>
+    <b>⚡ Creative UI/UX Enthusiast | 🖥️ Responsive Web Architecture | 📊 Operations & ERP Specialist</b>
+  </samp>
 </p>
 
 ---
@@ -18,9 +18,9 @@
 
 An ambitious and detail-oriented **Full-Stack Web Developer** passionate about crafting unique, highly creative, and interactive user interfaces. Alongside engineering modern web layouts, I bring solid experience as an **Assistant Store Manager**, specialized in streamlining data operations via **ERP and SAP** systems.
 
-- 💻 **UI/UX Obsession:** Love building responsive, high-performance UIs using modern trends like **Bento Grids**, **Glassmorphism**, and **Cyberpunk aesthetics**.
-- ⚙️ **Operations:** Expert in inventory logic, material processing, unit management, and data consistency.
-- ⚡ **Fun Fact:** I enjoy breaking layout boundaries with complex CSS animations and engineering real-time JavaScript features.
+* 💻 **UI/UX Obsession:** Love building responsive, high-performance UIs using modern trends like **Bento Grids**, **Glassmorphism**, and **Cyberpunk aesthetics**.
+* ⚙️ **Operations:** Expert in inventory logic, material processing, unit management, and data consistency.
+* ⚡ **Fun Fact:** I enjoy breaking layout boundaries with complex CSS animations and engineering real-time JavaScript features.
 
 ---
 
