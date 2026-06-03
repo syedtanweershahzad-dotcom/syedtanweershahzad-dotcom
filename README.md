@@ -60,28 +60,43 @@ An ambitious and detail-oriented **Full-Stack Web Developer** passionate about c
 
 ---
 
-## ❤️ Views and Followers
+## 🔗 Connect with me:
 
 <p align="left">
-  <!-- Live Profile Views Counter -->
-  <img src="https://komarev.com/ghvc/?username=syedtanweershahzad-dotcom&label=Profile+views&style=flat-square&color=0077b5" alt="Profile Views Counter" />
+  <!-- Brand Social Icons styled exactly like sliding1.PNG -->
+  <a href="https://linkedin.com/in/syedtanweershahzad" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35px" />
+  </a>
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="35px" />
+  </a>
+  <a href="https://facebook.com" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="35px" />
+  </a>
 </p>
 
----
-
-## 🔗 Connect With Me
-
-Let's collaborate on amazing web architectures or discuss workflow automation!
-
 <p align="left">
-  <a href="https://linkedin.com/in/syedtanweershahzad" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <!-- Live Committers Top Rank Badge linking your official ranking -->
+  <a href="https://committers.top/pakistan" target="_blank">
+    <img src="https://img.shields.io/badge/committers.top%20rank-Pakistan%20(Live%20Stats)-007cc2?style=flat-square&logo=github&logoColor=white" alt="GitHub Rank" />
   </a>
 </p>
 
 ---
 
-<!-- Sliding text section -->
-<marquee direction="left" scrollamount="5" style="font-size: 18px; font-weight: bold; color: #2ecc71; font-family: 'Courier New', monospace;">
-  Thank You so much for visiting my Github Profile! 🚀✨
-</marquee>
+## ❤️ Views and Followers
+
+<p align="left">
+  <!-- Brand New High-Speed 100% Working Profile Views Badge -->
+  <img src="https://hits.seeyoufarm.com/api/count/graph/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyedtanweershahzad-dotcom&title=Profile+views&edge_flat=true&bg_color=%23555555&count_color=%23007cc2" alt="Profile Views" />
+  &nbsp;
+  <!-- GitHub Followers Badge matching sliding1.PNG -->
+  <img src="https://img.shields.io/github/followers/syedtanweershahzad-dotcom?label=Followers&style=flat-square&color=white&logo=github&logoColor=black" alt="Followers" />
+</p>
+
+<br />
+
+<p align="center">
+  <!-- Non-stop Ultra Smooth Green Sliding Marquee Text -->
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=700&size=22&color=2ECC71&center=true&vCenter=true&width=600&height=40&lines=Thank+You+so+much+for+visiting+my+Github+Profile!;" alt="Sliding Text" />
+</p>
