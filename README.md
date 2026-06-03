@@ -43,6 +43,36 @@ An ambitious and detail-oriented **Full-Stack Web Developer** passionate about c
 
 ---
 
+## 🚀 Featured Projects
+
+### 🍉 Watermelon Smoothie Recipe
+Modern responsive recipe website with clean UI and animations.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://watermelon-bliss.vercel.app/)
+
+---
+
+### 🥁 JavaScript Drum Kit
+Interactive keyboard-based drum kit using JavaScript events.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://modern-js-drum-kit.vercel.app/)
+
+---
+
+### 🧄 Cheese Stuffed Garlic Rolls
+Responsive recipe landing page with modern UI design.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://cheese-stuffed-garlic-rolls-recipe.vercel.app/)
+
+---
+
+### 🌰 Holiday Seasoned Walnuts
+Elegant recipe UI with responsive design and clean layout.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://holiday-seasoned-walnuts-recipe.vercel.app/)
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
