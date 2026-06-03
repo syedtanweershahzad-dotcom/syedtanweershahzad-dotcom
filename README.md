@@ -60,6 +60,15 @@ An ambitious and detail-oriented **Full-Stack Web Developer** passionate about c
 
 ---
 
+## ❤️ Views and Followers
+
+<p align="left">
+  <!-- Live Profile Views Counter -->
+  <img src="https://komarev.com/ghvc/?username=syedtanweershahzad-dotcom&label=Profile+views&style=flat-square&color=0077b5" alt="Profile Views Counter" />
+</p>
+
+---
+
 ## 🔗 Connect With Me
 
 Let's collaborate on amazing web architectures or discuss workflow automation!
@@ -69,3 +78,10 @@ Let's collaborate on amazing web architectures or discuss workflow automation!
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+---
+
+<!-- Sliding text section -->
+<marquee direction="left" scrollamount="5" style="font-size: 18px; font-weight: bold; color: #2ecc71; font-family: 'Courier New', monospace;">
+  Thank You so much for visiting my Github Profile! 🚀✨
+</marquee>
