@@ -47,44 +47,37 @@ An ambitious and detail-oriented **Full-Stack Web Developer** passionate about c
 
 ### 🍉 Watermelon Smoothie Recipe
 Modern responsive recipe website with clean UI and animations.
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://watermelon-bliss.vercel.app/)
+* [🌐 Live Demo](https://watermelon-bliss.vercel.app/)
 
 ---
 
 ### 🥁 JavaScript Drum Kit
 Interactive keyboard-based drum kit using JavaScript events.
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://modern-js-drum-kit.vercel.app/)
+* [🌐 Live Demo](https://modern-js-drum-kit.vercel.app/)
 
 ---
 
 ### 🧄 Cheese Stuffed Garlic Rolls
 Responsive recipe landing page with modern UI design.
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://cheese-stuffed-garlic-rolls-recipe.vercel.app/)
+* [🌐 Live Demo](https://cheese-stuffed-garlic-rolls-recipe.vercel.app/)
 
 ---
 
 ### 🌰 Holiday Seasoned Walnuts
 Elegant recipe UI with responsive design and clean layout.
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://holiday-seasoned-walnuts-recipe.vercel.app/)
+* [🌐 Live Demo](https://holiday-seasoned-walnuts-recipe.vercel.app/)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=syedtanweershahzad-dotcom&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Tanweer's GitHub Stats" height="180px" />
   
-  <!-- Top Languages Card -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedtanweershahzad-dotcom&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
-  <!-- Activity Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedtanweershahzad-dotcom&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
@@ -96,7 +89,7 @@ Elegant recipe UI with responsive design and clean layout.
   <a href="https://linkedin.com/in/syedtanweershahzad" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35px" />
   </a>
-  <a href="https://twitter.com" target="_blank">
+  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="35px" />
   </a>
   <a href="https://facebook.com" target="_blank">
@@ -105,7 +98,6 @@ Elegant recipe UI with responsive design and clean layout.
 </p>
 
 <p align="left">
-  <!-- Live Committers Top Rank Badge with verified rendering -->
   <a href="https://committers.top/pakistan" target="_blank">
     <img src="https://img.shields.io/badge/committers.top%20rank-Pakistan%20%23191-007cc2?style=flat-square&logo=github&logoColor=white" alt="GitHub Rank" />
   </a>
@@ -117,13 +109,11 @@ Elegant recipe UI with responsive design and clean layout.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=syedtanweershahzad-dotcom&color=007cc2&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  &nbsp;
   <img src="https://img.shields.io/github/followers/syedtanweershahzad-dotcom?label=Followers&style=flat-square&color=white&logo=github&logoColor=black" alt="Followers" />
 </p>
 
 <br />
 
 <p align="center">
-  <!-- Smooth Green Sliding Marquee Text -->
   <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=700&size=22&color=2ECC71&center=true&vCenter=true&width=600&height=40&lines=Thank+You+so+much+for+visiting+my+Github+Profile!;" alt="Sliding Text" />
 </p>
