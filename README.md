@@ -72,16 +72,16 @@ Elegant recipe UI with responsive design and clean layout.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- GitHub Stats Card -->
+  <!-- GitHub Stats Card (Reliable Alternative Endpoint) -->
   <img src="https://github-readme-stats-fast.vercel.app/api?username=syedtanweershahzad-dotcom&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Tanweer's GitHub Stats" height="180px" />
   &nbsp;&nbsp;
-  <!-- Top Languages Card -->
+  <!-- Top Languages Card (Reliable Alternative Endpoint) -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=syedtanweershahzad-dotcom&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
-  <!-- GitHub Streak Card -->
-  <img src="https://streak-stats.demolab.com/?user=syedtanweershahzad-dotcom&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <!-- Working GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedtanweershahzad-dotcom&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
