@@ -135,7 +135,7 @@
 ## 📈 Contribution Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedtanweershahzad-dotcom&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/58A6FF/syedtanweershahzad-dotcom" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
