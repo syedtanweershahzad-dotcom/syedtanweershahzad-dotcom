@@ -41,7 +41,7 @@
         </ul>
       </td>
       <td width="40%" align="center" valign="middle">
-        <img src="https://github-readme-profile-alpha.vercel.app/api?username=syedtanweershahzad-dotcom&theme=tokyonight" alt="StatsCard" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=syedtanweershahzad-dotcom&theme=tokyonight&show_icons=true&hide_border=true" alt="StatsCard" width="100%" />
         <br /><br />
         <img src="https://komarev.com/ghpvc/?username=syedtanweershahzad-dotcom&color=58A6FF&style=flat-square&label=Profile+Views" alt="Views" />
         &nbsp;
@@ -120,14 +120,16 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Languages
 
 <p align="center">
-  <img src="https://github-readme-profile-alpha.vercel.app/api?username=syedtanweershahzad-dotcom&theme=tokyonight" alt="Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syedtanweershahzad-dotcom&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" height="180" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedtanweershahzad-dotcom&theme=tokyonight&layout=compact&hide_border=true" alt="Most Used Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedtanweershahzad-dotcom&theme=tokyonight&hide_border=true" alt="Streak" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedtanweershahzad-dotcom&theme=tokyonight&hide_border=true" alt="Streak Stats" width="420" />
 </p>
 
 ---
