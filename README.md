@@ -90,34 +90,44 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
+      <h3>🏡 EstateNest Real Estate Platform</h3>
+      <p>Modern property showcase platform built with responsive card components, interactive filter UI, and sleek property details navigation.</p>
+      <a href="https://estatenest-three.vercel.app" target="_blank">🌐 Live Demo</a> · 
+      <a href="https://github.com/syedtanweershahzad-dotcom/EstateNest" target="_blank">💻 Repository</a>
+    </td>
+    <td width="50%" valign="top">
       <h3>📦 Tanweer Zone Inventory Management</h3>
       <p>Enterprise Web dashboard built for ISP and cable operation tracking, material log management, and interactive metrics visualization.</p>
       <a href="https://tanweer-zone-inventory-management.vercel.app" target="_blank">🌐 Live Demo</a> · 
       <a href="https://github.com/syedtanweershahzad-dotcom" target="_blank">💻 Repository</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🥁 Modern JS Drum Kit</h3>
       <p>Interactive web application delivering instant audio playback and visual animations triggered by physical keys or clicks.</p>
       <a href="https://modern-js-drum-kit.vercel.app" target="_blank">🌐 Live Demo</a> · 
       <a href="https://github.com/syedtanweershahzad-dotcom" target="_blank">💻 Repository</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📅 CuraSlot Appointment Booking</h3>
       <p>Clean dynamic scheduling interface featuring real-time date selection, status tracking, and modern UI cards.</p>
       <a href="https://cura-slot-appointment-booking.vercel.app" target="_blank">🌐 Live Demo</a> · 
       <a href="https://github.com/syedtanweershahzad-dotcom" target="_blank">💻 Repository</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🌤️ Weather Dashboard</h3>
       <p>Dynamic responsive weather web interface displaying real-time weather metrics with clean UI components.</p>
       <a href="https://weather-dashboard-alpha-coral.vercel.app" target="_blank">🌐 Live Demo</a> · 
       <a href="https://github.com/syedtanweershahzad-dotcom" target="_blank">💻 Repository</a>
     </td>
+    <td width="50%" valign="top">
+      <!-- Reserved for your next project -->
+    </td>
   </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Analytics
