@@ -179,3 +179,31 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,2,24,20&height=100&section=footer" alt="Footer Wave" width="100%" />
 </p>
+<div align="center">
+  <h2>📊 GitHub Profile Summary</h2>
+
+  <!-- Profile Details Card (Top Main Card) -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedtanweershahzad-dotcom&theme=2077" alt="Profile Details" width="100%" />
+
+  <br /><br />
+
+  <!-- Grid Layout for 2x2 Middle Cards -->
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedtanweershahzad-dotcom&theme=2077" alt="Top Languages by Repo" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syedtanweershahzad-dotcom&theme=2077" alt="Top Languages by Commit" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedtanweershahzad-dotcom&theme=2077" alt="Stats" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syedtanweershahzad-dotcom&theme=2077&utcOffset=5" alt="Commits Time" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
